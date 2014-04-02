@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_report'
   s.version     = '2.2.1'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'Demo Extension Spree'
+  s.description = 'Add new report'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'Phu Le'
